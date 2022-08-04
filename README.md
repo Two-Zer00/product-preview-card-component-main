@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Two-Zer00/product-preview-card-component-main)
+- Live Site URL: [Live app](https://two-zer00.github.io/product-preview-card-component-main/)
 
 ## My process
 
